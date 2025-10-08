@@ -161,6 +161,6 @@ O estilo foi criado com **CSS puro**, priorizando:
 
 **Emerson Souza**  
 💼 Desenvolvedor Full Stack  
-📞 [WhatsApp(https://wa.me/5561982858372)]  
-📧 [E-mail(emersontlsd@gmail.com)] 
-🧑‍💻 [[GitHub](https://github.com/Emersontlsd)]
+📞 [WhatsApp (https://wa.me/5561982858372)]  
+📧 [E-mail (emersontlsd@gmail.com)]  
+🧑‍💻 [GitHub (https://github.com/Emersontlsd)]
